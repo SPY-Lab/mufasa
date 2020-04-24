@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>mufasa</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.xtext.ui.shared.xtextNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>antlr4</name>
+			<type>2</type>
+			<location>/home/vincenzo/eclipse/java-2018-12/eclipse/C::/Users/Vincenzo/Desktop/mu-js/target/generated-sources/antlr4</location>
+		</link>
+	</linkedResources>
+</projectDescription>
