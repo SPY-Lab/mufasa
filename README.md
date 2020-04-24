@@ -7,7 +7,7 @@
 ```
 git clone https://github.com/SPY-Lab/mufasa
 ```
-Here you can find the JAR file `mujs.jar` and you can run the MuJS static analyzer as
+Here you can find the JAR file `mufasa.jar` and you can run the MuJS static analyzer as
 ```
 java -jar mufasa.jar filename.js 
 ```
