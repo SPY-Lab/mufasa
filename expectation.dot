@@ -1,0 +1,16 @@
+digraph G {
+	rankdir=LR;
+	node [width=0.3 shape=circle]
+	q1 [width=0.3 shape=doublecircle]
+	q3 [width=0.3 shape=doublecircle]
+	q4 [width=0.3 shape=doublecircle]
+	q5 [width=0.3 shape=doublecircle]
+	q0 [width=0.3 shape=doublecircle]
+	q3 -> q4 [label="l"];
+	q0 -> q3 [label="l"];
+	q4 -> q5 [label="o"];
+	q0 -> q2 [label="h"];
+	q1 -> q3 [label="l"];
+	q2 -> q1 [label="e"];
+	q0 -> q1 [label="e"];
+}
