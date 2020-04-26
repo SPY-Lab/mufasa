@@ -1,5 +1,5 @@
 # μFASA static analyzer
-μFASA (μJS Finite-state Automata String Analyzer) is a string static analyzer based on abstract interpretation for inter-procedural version of μJS, a sub-language of JavaScript. The μJS syntax is reported in figure above.
+μFASA (μJS Finite-state Automata String Analyzer) is a string static analyzer based on abstract interpretation for inter-procedural version of μJS, a sub-language of JavaScript. Full details about μFASA can be found in [Static Program Analysis for String Manipulation Languages](https://doi.org/10.4204/EPTCS.299.5) presented in the 7th International Workshop on Verification and Program Transformation (VPT 2019).The μJS syntax is reported in figure above.
 
 ![image](misc/syntax.PNG)
 
